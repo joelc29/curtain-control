@@ -1,0 +1,4 @@
+*.json
+debug.cfg
+debug.svd
+secrets.h
